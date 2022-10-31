@@ -1,0 +1,28 @@
+esse é um arquivo de descriçao do jogo que criaremos
+
+jogo de pular obstaculos
+
+1.perssonagens(PC = personagem controlavel, NPC personagem nao controlavel)
+o personagem sera um menino
+os obstaculos no geral nao serao controlaveis
+
+2.historia: o menino estava andando tranquilamente quando ele soube que seus priminhos quebraram seu ps2 e agora ele esta correndo dessesperado ate sua casa
+
+
+3.objetivo: chegar em casa intacto
+
+
+4.regras: ele nao podera bater em nenhum obstaculo e quanto mais tempo ele conseguir nao se machucar ele ganha mais ponto
+          e tambem se ele chegar em uma pontuaçao expecifica ele ganha
+
+
+5.equilibrio: a medida que o jogo passar fica mais dificil, mas nao impossivel de jogar
+
+
+6.adaptividade: os obstaculos vao ficando cada vez mais frequentes
+
+
+7.sorte vs abilidade: os obstaculos serao aleatorios
+
+
+8.feedback: os pontos e o final do jogo
